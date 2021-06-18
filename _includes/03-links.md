@@ -1,1 +1,1 @@
-[Lynne's GitHub Profile] (https://github.com/LZRatcliffe)
+[Lynne's GitHub Profile](https://github.com/LZRatcliffe)
